@@ -9,3 +9,6 @@
 5.  An example of RBM learning by Geoffrey Hinton : https://youtu.be/iHaS6O1eox4
 6.  Generate Music in TensorFlow Siraj Raval (with RBM) : https://youtu.be/ZE7qWXX05T0
 7.  Boltzmann Machines : https://www.youtube.com/watch?v=j66P3X8Z3lE&list=PL-i8do33HJotLRTpIWuquZ-WWkJ4ci2-c
+
+This is Jupyter Notebook for the Hands-on Recommender Systems Using RBM,                
+Accompanied post for this Jupyter Notebook can be found on this link: 
