@@ -11,4 +11,4 @@
 7.  Boltzmann Machines : https://www.youtube.com/watch?v=j66P3X8Z3lE&list=PL-i8do33HJotLRTpIWuquZ-WWkJ4ci2-c
 
 This is Jupyter Notebook for the Hands-on Recommender Systems Using RBM,                
-Accompanied post for this Jupyter Notebook can be found on this link: 
+Accompanied post for this Jupyter Notebook can be found on this link: https://medium.com/datadriveninvestor/recommender-systems-using-rbm-79d65fcadf8f
